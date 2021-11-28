@@ -1,0 +1,428 @@
+2021-11-28 16:44:06,793 - WDM - INFO - 
+
+2021-11-28 16:44:06,793 - WDM - INFO - 
+
+2021-11-28 16:44:06,794 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,794 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,794 - WDM - INFO - 
+
+2021-11-28 16:44:06,794 - WDM - INFO - 
+
+2021-11-28 16:44:06,794 - WDM - INFO - 
+
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,794 - WDM - INFO - 
+
+== WebDriver manager ======
+2021-11-28 16:44:06,794 - WDM - INFO - 
+
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,795 - WDM - INFO - 
+
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:06,795 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:07,032 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,032 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,032 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,032 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,032 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,032 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,032 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,032 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,032 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,032 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,034 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,034 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,034 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,034 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,034 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,034 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,034 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:07,034 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,034 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,034 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,034 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,034 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,034 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:07,036 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,036 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,036 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,036 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:07,166 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,166 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,434 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,434 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,435 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,435 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,435 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,435 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:07,435 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:28,432 - WDM - INFO - 
+
+2021-11-28 16:44:28,432 - WDM - INFO - 
+
+2021-11-28 16:44:28,433 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:28,433 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:28,526 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:28,526 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:28,527 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:28,527 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:28,528 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:28,528 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:28,646 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:28,646 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:28,921 - WDM - INFO - 
+
+2021-11-28 16:44:28,921 - WDM - INFO - 
+
+2021-11-28 16:44:28,922 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:28,922 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:29,007 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:29,007 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:29,008 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:29,008 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:29,008 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:29,008 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:29,115 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:29,115 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:32,767 - WDM - INFO - 
+
+2021-11-28 16:44:32,767 - WDM - INFO - 
+
+2021-11-28 16:44:32,767 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:32,767 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:32,835 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:32,835 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:32,836 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:32,836 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:32,836 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:32,836 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:32,939 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:32,939 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:33,006 - WDM - INFO - 
+
+2021-11-28 16:44:33,006 - WDM - INFO - 
+
+2021-11-28 16:44:33,007 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:33,007 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:33,051 - WDM - INFO - 
+
+2021-11-28 16:44:33,051 - WDM - INFO - 
+
+2021-11-28 16:44:33,052 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:33,052 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:33,177 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:33,177 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:33,177 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:33,177 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:33,178 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:33,178 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:33,178 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:33,178 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:33,179 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:33,179 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:33,179 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:33,179 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:33,286 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:33,286 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:33,295 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:33,295 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:53,396 - WDM - INFO - 
+
+2021-11-28 16:44:53,396 - WDM - INFO - 
+
+2021-11-28 16:44:53,397 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:53,397 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:53,520 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:53,520 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:53,521 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:53,521 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:53,521 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:53,521 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:53,636 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:53,636 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:54,023 - WDM - INFO - 
+
+2021-11-28 16:44:54,023 - WDM - INFO - 
+
+2021-11-28 16:44:54,024 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:54,024 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:54,213 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:54,213 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:54,213 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:54,213 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:54,214 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:54,214 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:54,315 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:54,315 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:54,882 - WDM - INFO - 
+
+2021-11-28 16:44:54,882 - WDM - INFO - 
+
+2021-11-28 16:44:54,882 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:54,882 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:55,039 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:55,039 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:55,040 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:55,040 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:55,040 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:55,040 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:55,188 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:55,188 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:57,499 - WDM - INFO - 
+
+2021-11-28 16:44:57,499 - WDM - INFO - 
+
+2021-11-28 16:44:57,727 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:57,727 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:57,734 - WDM - INFO - 
+
+2021-11-28 16:44:57,734 - WDM - INFO - 
+
+2021-11-28 16:44:57,734 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:57,734 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 16:44:58,070 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:58,070 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:58,070 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:58,070 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:58,071 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:58,071 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:58,136 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:58,136 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 16:44:58,137 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:58,137 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 16:44:58,138 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:58,138 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 16:44:58,187 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:58,187 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:58,272 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:44:58,272 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 16:45:06,884 - root - INFO - ****** test_color_not_available_for_selected_product ******
+2021-11-28 16:45:06,884 - root - INFO - ****** test_color_not_available_for_selected_product ******
+2021-11-28 16:45:06,884 - root - INFO - ****** Started ******
+2021-11-28 16:45:06,884 - root - INFO - ****** Started ******
+2021-11-28 16:45:28,461 - root - INFO - ****** Color Not Available for selected product ******
+2021-11-28 16:45:28,461 - root - INFO - ****** Color Not Available for selected product ******
+2021-11-28 16:45:30,777 - root - INFO - ****** Finished ******
+2021-11-28 16:45:30,777 - root - INFO - ****** Finished ******
+2021-11-28 17:05:27,368 - WDM - INFO - 
+
+2021-11-28 17:05:27,368 - WDM - INFO - 
+
+2021-11-28 17:05:27,370 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:05:27,370 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:05:27,434 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:05:27,434 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:05:27,435 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:05:27,435 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:05:27,435 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:05:27,435 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:05:27,585 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:05:27,585 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:05:46,073 - WDM - INFO - 
+
+2021-11-28 17:05:46,073 - WDM - INFO - 
+
+2021-11-28 17:05:46,074 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:05:46,074 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:05:46,164 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:05:46,164 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:05:46,165 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:05:46,165 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:05:46,166 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:05:46,166 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:05:46,261 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:05:46,261 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:06,240 - WDM - INFO - 
+
+2021-11-28 17:06:06,240 - WDM - INFO - 
+
+2021-11-28 17:06:06,241 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:06,241 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:06,326 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:06,326 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:06,327 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:06,327 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:06,327 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:06,327 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:06,423 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:06,423 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:25,526 - WDM - INFO - 
+
+2021-11-28 17:06:25,526 - WDM - INFO - 
+
+2021-11-28 17:06:25,527 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:25,527 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:25,600 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:25,600 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:25,601 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:25,601 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:25,601 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:25,601 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:25,703 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:25,703 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:44,609 - WDM - INFO - 
+
+2021-11-28 17:06:44,609 - WDM - INFO - 
+
+2021-11-28 17:06:44,610 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:44,610 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:06:44,688 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:44,688 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:06:44,688 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:44,688 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:06:44,689 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:44,689 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:06:44,784 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:06:44,784 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:03,256 - WDM - INFO - 
+
+2021-11-28 17:07:03,256 - WDM - INFO - 
+
+2021-11-28 17:07:03,257 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:03,257 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:03,338 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:03,338 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:03,338 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:03,338 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:03,339 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:03,339 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:03,423 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:03,423 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:20,655 - WDM - INFO - 
+
+2021-11-28 17:07:20,655 - WDM - INFO - 
+
+2021-11-28 17:07:20,656 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:20,656 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:20,732 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:20,732 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:20,733 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:20,733 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:20,733 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:20,733 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:20,821 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:20,821 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:38,893 - WDM - INFO - 
+
+2021-11-28 17:07:38,893 - WDM - INFO - 
+
+2021-11-28 17:07:38,893 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:38,893 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:38,968 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:38,968 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:38,969 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:38,969 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:38,969 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:38,969 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:39,069 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:39,069 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:59,010 - WDM - INFO - 
+
+2021-11-28 17:07:59,010 - WDM - INFO - 
+
+2021-11-28 17:07:59,010 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:59,010 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:07:59,094 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:59,094 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:07:59,094 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:59,094 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:07:59,094 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:59,094 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:07:59,186 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:07:59,186 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:08:22,600 - WDM - INFO - 
+
+2021-11-28 17:08:22,600 - WDM - INFO - 
+
+2021-11-28 17:08:22,601 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:08:22,601 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:08:22,683 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:08:22,683 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:08:22,683 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:08:22,683 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:08:22,684 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:08:22,684 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:08:22,768 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:08:22,768 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:08:39,856 - WDM - INFO - 
+
+2021-11-28 17:08:39,856 - WDM - INFO - 
+
+2021-11-28 17:08:39,856 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:08:39,856 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:08:39,936 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:08:39,936 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:08:39,936 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:08:39,936 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:08:39,937 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:08:39,937 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:08:40,023 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:08:40,023 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:04,415 - WDM - INFO - 
+
+2021-11-28 17:09:04,415 - WDM - INFO - 
+
+2021-11-28 17:09:04,416 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:04,416 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:04,492 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:04,492 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:04,492 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:04,492 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:04,493 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:04,493 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:04,599 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:04,599 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:22,614 - WDM - INFO - 
+
+2021-11-28 17:09:22,614 - WDM - INFO - 
+
+2021-11-28 17:09:22,614 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:22,614 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:22,690 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:22,690 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:22,691 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:22,691 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:22,691 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:22,691 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:22,796 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:22,796 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:30,688 - root - INFO - ****** test_color_not_available_for_selected_product ******
+2021-11-28 17:09:30,688 - root - INFO - ****** test_color_not_available_for_selected_product ******
+2021-11-28 17:09:30,688 - root - INFO - ****** Started ******
+2021-11-28 17:09:30,688 - root - INFO - ****** Started ******
+2021-11-28 17:09:46,857 - root - INFO - ****** Color Not Available for selected product ******
+2021-11-28 17:09:46,857 - root - INFO - ****** Color Not Available for selected product ******
+2021-11-28 17:09:49,135 - root - INFO - ****** Finished ******
+2021-11-28 17:09:49,135 - root - INFO - ****** Finished ******
+2021-11-28 17:09:49,138 - WDM - INFO - 
+
+2021-11-28 17:09:49,138 - WDM - INFO - 
+
+2021-11-28 17:09:49,139 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:49,139 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:09:49,212 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:49,212 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:09:49,212 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:49,212 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:09:49,213 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:49,213 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:09:49,299 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:09:49,299 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:10:16,694 - WDM - INFO - 
+
+2021-11-28 17:10:16,694 - WDM - INFO - 
+
+2021-11-28 17:10:16,695 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:10:16,695 - WDM - INFO - ====== WebDriver manager ======
+2021-11-28 17:10:16,764 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:10:16,764 - WDM - INFO - Could not get version for google-chrome with the any command: reg query "HKEY_CURRENT_USER\Software\Google\Chrome\BLBeacon" /v version
+2021-11-28 17:10:16,765 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:10:16,765 - WDM - INFO - Current google-chrome version is UNKNOWN
+2021-11-28 17:10:16,765 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:10:16,765 - WDM - INFO - Get LATEST chromedriver version for UNKNOWN google-chrome
+2021-11-28 17:10:16,865 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-11-28 17:10:16,865 - WDM - INFO - Driver [C:\Users\Anshul\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
