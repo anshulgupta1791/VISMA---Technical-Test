@@ -25,6 +25,7 @@ def setup_method(request):
     return driver
 
 ### HTML Report ###
+
 def pytest_configure(config):
     config._metadata['Project Name'] = 'VISMA - Technical Test'
     config._metadata['Portal Under Test'] = 'My Store'
