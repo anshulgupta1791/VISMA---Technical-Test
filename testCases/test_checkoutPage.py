@@ -100,8 +100,11 @@ class TestCheckoutSection:
         self.checkout = CheckoutPage(self.driver)
         assert readConf.get_checkout_page_title() == self.driver.title
         self.checkout.verify_cart_is_not_empty()
-        unitPrice = self.checkout.get_unit_price_for_a_product(readConf.get_orange_color(), readConf.get_small_size(), readConf.get_product1_identifier())
-        totalPrice = self.checkout.get_total_unit_costs(readConf.get_orange_color(), readConf.get_small_size(), readConf.get_product1_identifier())
+        unitPrice = self.checkout.get_unit_price_for_a_product(readConf.get_orange_color(),
+                                                               readConf.get_small_size(),
+                                                               readConf.get_product1_identifier())
+        totalPrice = self.checkout.get_total_unit_costs(readConf.get_orange_color(),
+                                                        readConf.get_small_size(), readConf.get_product1_identifier())
         assert unitPrice == totalPrice
         self.driver.quit()
 
@@ -132,7 +135,7 @@ class TestCheckoutSection:
         self.driver = setup_method
         self.homepage = HomePage(self.driver)
         assert self.driver.title == readConf.get_home_page_title()
-        
+
         for i in self.products:
             self.homepage.click_on_women_tab()
             self.womenpage = WomenTitlePage(self.driver)
@@ -145,10 +148,17 @@ class TestCheckoutSection:
         self.checkout = CheckoutPage(self.driver)
         assert readConf.get_checkout_page_title() == self.driver.title
         self.checkout.verify_cart_is_not_empty()
-        unitPriceForProduct1 = self.checkout.get_unit_price_for_a_product(readConf.get_orange_color(), readConf.get_small_size(), readConf.get_product1_identifier())
-        unitPriceForProduct2 = self.checkout.get_unit_price_for_a_product(readConf.get_black_color(), readConf.get_small_size(), readConf.get_product2_identifier())
-        totalPriceOfProduct1 = self.checkout.get_total_unit_costs(readConf.get_orange_color(), readConf.get_small_size(), readConf.get_product1_identifier())
-        totalPriceOfProduct2 = self.checkout.get_total_unit_costs(readConf.get_black_color(), readConf.get_small_size(), readConf.get_product2_identifier())
+        unitPriceForProduct1 = self.checkout.get_unit_price_for_a_product(readConf.get_orange_color(),
+                                                                          readConf.get_small_size(),
+                                                                          readConf.get_product1_identifier())
+        unitPriceForProduct2 = self.checkout.get_unit_price_for_a_product(readConf.get_black_color(),
+                                                                          readConf.get_small_size(),
+                                                                          readConf.get_product2_identifier())
+        totalPriceOfProduct1 = self.checkout.get_total_unit_costs(readConf.get_orange_color(),
+                                                                  readConf.get_small_size(),
+                                                                  readConf.get_product1_identifier())
+        totalPriceOfProduct2 = self.checkout.get_total_unit_costs(readConf.get_black_color(), readConf.get_small_size(),
+                                                                  readConf.get_product2_identifier())
         assert (unitPriceForProduct2 == totalPriceOfProduct2) and (unitPriceForProduct1 == totalPriceOfProduct1)
         self.driver.quit()
 
@@ -332,13 +342,16 @@ class TestCheckoutSection:
         self.checkout.verify_user_is_at_shipping_step()
         self.checkout.click_on_agree_terms_checkbox_at_shipping_step()
         self.checkout.click_on_proceed_to_payment_step()
-        totalPerProductAmountAtPaymentPage = self.checkout.verify_unit_price_of_product_at_payment_page(readConf.get_orange_color(),
-                                                                   readConf.get_small_size(),
-                                                                   readConf.get_product1_identifier())
-        totalProductAmountAtPaymentPage = self.checkout.verify_product_total_amount_at_payment_page(readConf.get_orange_color(),
-                                                                   readConf.get_small_size(),
-                                                                   readConf.get_product1_identifier())
-        assert (totalPerProductAmountInCart == totalPerProductAmountAtPaymentPage) and (totalProductAmountInCart == totalProductAmountAtPaymentPage)
+        totalPerProductAmountAtPaymentPage = self.checkout.verify_unit_price_of_product_at_payment_page(
+            readConf.get_orange_color(),
+            readConf.get_small_size(),
+            readConf.get_product1_identifier())
+        totalProductAmountAtPaymentPage = self.checkout.verify_product_total_amount_at_payment_page(
+            readConf.get_orange_color(),
+            readConf.get_small_size(),
+            readConf.get_product1_identifier())
+        assert (totalPerProductAmountInCart == totalPerProductAmountAtPaymentPage) and (
+                    totalProductAmountInCart == totalProductAmountAtPaymentPage)
         self.driver.quit()
 
     def test_order_by_bank_wire(self, setup_method):

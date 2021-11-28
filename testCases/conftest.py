@@ -2,6 +2,7 @@ import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
+
 from utilities.readProperties import readConf
 
 
@@ -24,6 +25,7 @@ def setup_method(request):
         driver.implicitly_wait(10)
     return driver
 
+
 ### HTML Report ###
 
 def pytest_configure(config):
@@ -31,5 +33,3 @@ def pytest_configure(config):
     config._metadata['Portal Under Test'] = 'My Store'
     config._metadata['Portal Link'] = 'http://automationpractice.com/'
     config._metadata['Tester Name'] = 'Anshul Gupta'
-
-

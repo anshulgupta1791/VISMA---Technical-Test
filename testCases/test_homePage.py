@@ -4,7 +4,7 @@ from utilities.readProperties import readConf
 
 class TestHomePage:
 
-    def test_homePageTitle(self, setup_method):
+    def test_home_page_title(self, setup_method):
         self.driver = setup_method
         assert self.driver.title == readConf.get_home_page_title()
         self.driver.close()
@@ -24,7 +24,6 @@ class TestHomePage:
         self.homepage.click_on_dresses_tab()
         assert self.driver.title == readConf.get_dresses_page_title()
         self.driver.close()
-
 
     def test_tshirts_tab_link(self, setup_method):
         self.driver = setup_method

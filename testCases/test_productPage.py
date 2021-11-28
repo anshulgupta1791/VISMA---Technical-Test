@@ -19,7 +19,7 @@ class TestProductPage:
     product6Sheet = 'Product6'
     product7Sheet = 'Product7'
 
-    def test_productPageTitle(self, setup_method):
+    def test_product_page_title(self, setup_method):
         self.driver = setup_method
         self.homepage = HomePage(self.driver)
         assert self.driver.title == readConf.get_home_page_title()
@@ -265,7 +265,7 @@ class TestProductPage:
         assert count in productsInCart
         self.driver.quit()
 
-    def test_add_product_to_wishlist_without_signin(self, setup_method):
+    def test_add_product_to_wishlist_without_sign_in(self, setup_method):
         self.driver = setup_method
         self.homepage = HomePage(self.driver)
         assert self.driver.title == readConf.get_home_page_title()

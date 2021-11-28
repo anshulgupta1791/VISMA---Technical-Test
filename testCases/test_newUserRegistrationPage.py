@@ -4,7 +4,7 @@ from page_objects.New_User_Account_Page_Object import NewUserAccountCreationPage
 
 class TestNewUserRegistrationPage:
 
-    def test_newUserRegistrationPageTitle(self, setup_method):
+    def test_new_user_registration_page_title(self, setup_method):
         self.driver = setup_method
         self.loginpage = LoginPage(self.driver)
         self.loginpage.click_on_signIn_button()
@@ -14,7 +14,7 @@ class TestNewUserRegistrationPage:
         self.newuser.verify_form_title()
         self.driver.quit()
 
-    def test_mandatoryErrorsDisplaying(self, setup_method):
+    def test_mandatory_errors_displaying(self, setup_method):
         self.driver = setup_method
         self.loginpage = LoginPage(self.driver)
         self.loginpage.click_on_signIn_button()
